@@ -1,1 +1,2 @@
-Mars, the red planet.
+Mars, the red planet is cold and appears red. It seems to have 
+water.
